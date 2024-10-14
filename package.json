@@ -1,6 +1,6 @@
 {
-  "name": "dash-app",
-  "productName": "dash-app",
+  "name": "dash-2025",
+  "productName": "dash-2025",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -23,12 +23,12 @@
     "@electron-forge/plugin-fuses": "^7.5.0",
     "@electron-forge/plugin-webpack": "^7.5.0",
     "@electron/fuses": "^1.8.0",
-    "@vercel/webpack-asset-relocator-loader": "^1.7.3",
+    "@vercel/webpack-asset-relocator-loader": "1.7.3",
     "babel-loader": "^9.2.1",
-    "css-loader": "^6.11.0",
+    "css-loader": "^6.0.0",
     "electron": "32.2.0",
     "node-loader": "^2.0.0",
-    "style-loader": "^3.3.4"
+    "style-loader": "^3.0.0"
   },
   "keywords": [],
   "author": {
